@@ -7,3 +7,10 @@ FPMM, the first large-scale public full-process multimodal dataset for social me
 The subset of FPMM dataset is available for download at https://pan.baidu.com/s/1GqGbLbARMmMi0imc5qWE9w?pwd=FPMM
 
 The complete version of FPMM dataset is uploading ... ...
+
+
+# Citations
+
+If you use the FPMM dataset, please cite the following paper:
+
+[1] Gen Li, Yingyi Shui, Qi Zhang, Huawei Tian, Yun Cao. 2026. FPMM: Full-Process Multimodal Social Media Popularity Prediction Dataset.
