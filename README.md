@@ -14,3 +14,7 @@ The complete version of FPMM dataset (about 1.5T) is uploading ... ...
 If you use the FPMM dataset, please cite the following paper:
 
 [1] Gen Li, Yingyi Shui, QI Zhang, Huawei Tian Yun Cao. FPMM: Full-Process Multimodal Dataset for Social Media Popularity Prediction. 2026.
+
+# Copyright
+
+copyright (c) [2026] [Gen Li/PPSUC]. All rights reserved.
